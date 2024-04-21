@@ -1,1 +1,9 @@
-# EnhancementThree
+# Enhancement Three
+
+This project was created in CS 340: Client/Server Development. This is an interactive database made for animal rescue centers. The project in current state contains basic create, read, update, and delete functionality. It is created in Python and made to interact with Pymongo. The overall enhancement that I am looking to complete is including SQL functions for create, read, update, and delete. I also plan to add some more advanced SQL functions into the code like insert multiple, update multiple, and delete multiple. This will show my knowledge of SQL functionality and that I can expand upon basic code functions. This also shows my skills in Python data structure code.
+
+The original code looks good in terms of functionality and structure. It is commented thoroughly and makes sense. I remember having a lot of difficulty getting this code to function in Jupyter so I am just going to keep looking at it in Visual Studio. Overall, everything looks good as this is a relatively simple code to begin with. 
+
+The first of the course outcomes I plan to demonstrate with this enhancement are to demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. The second is to employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  The third is to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
+
+I feel that I did meet the course objectives I planned to with this enhancement. I learned more about SQL functions and how to formulate a database. The only challenges I faced was with getting everything to translate well into Python since it is a language I do not use a lot. 
